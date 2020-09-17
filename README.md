@@ -1,4 +1,4 @@
 # Free Channels
 Free Canadian, American, European, Indian, Arabic, Kids, Etc channels.
 
-Expires: October 15 2020
+Expires: 15 October 2020
