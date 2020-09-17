@@ -1,1075 +1,1075 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/AE.png",A&E CANADA
-http://flussonic.finetv.xyz/auth?channel=A%26ECanada&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=A&ECanada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/ABC.png",ABC CANADA
-http://flussonic.finetv.xyz/auth?channel=AbcCanada&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=AbcCanada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Adult_Swim.png",ADULT SWIM CANADA
-http://flussonic.finetv.xyz/auth?channel=AdultSwimCanada&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=AdultSwimCanada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/AMC.png",AMC CANADA
-http://flussonic.finetv.xyz/auth?channel=AmcCanada&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=AmcCanada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Animal_Planet.png",ANIMAL PLANET CANADA
-http://flussonic.finetv.xyz/auth?channel=AnimalPlanetCanada&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=AnimalPlanetCanada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bet.png",BET CANADA
-http://flussonic.finetv.xyz/auth?channel=BetCanada&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BetCanada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bravo.png",BRAVO CANADA
-http://flussonic.finetv.xyz/auth?channel=BravoCanada&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BravoCanada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/CBC.png",CBC CALGARY
-http://flussonic.finetv.xyz/auth?channel=CbcCalgary&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CbcCalgary&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/CBC.png",CBC CHARLOTTETOWN
-http://flussonic.finetv.xyz/auth?channel=CbcCharlottetown&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CbcCharlottetown&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/CBC.png",CBC EDMONTON
-http://flussonic.finetv.xyz/auth?channel=CbcEdmonton&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CbcEdmonton&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/CBC.png",CBC FREDERICTON
-http://flussonic.finetv.xyz/auth?channel=CbcFredericton&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CbcFredericton&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/CBC.png",CBC HALIFAX
-http://flussonic.finetv.xyz/auth?channel=CbcHalifax&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CbcHalifax&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/CBC.png",CBC MONTREAL
-http://flussonic.finetv.xyz/auth?channel=CbcMontreal&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CbcMontreal&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/CBC.png",CBC NEWS NETWORK
-http://flussonic.finetv.xyz/auth?channel=CbcNewsNetwork&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CbcNewsNetwork&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/CBC.png",CBC OTTAWA
-http://flussonic.finetv.xyz/auth?channel=CbcOttawa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CbcOttawa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/CBC.png",CBC REGINA
-http://flussonic.finetv.xyz/auth?channel=CbcRegina&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CbcRegina&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/CBC.png",CBC ST JOHNS
-http://flussonic.finetv.xyz/auth?channel=CbcStJohns&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CbcStJohns&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/CBC.png",CBC TORONTO
-http://flussonic.finetv.xyz/auth?channel=CbcToronto&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CbcToronto&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/CBC.png",CBC TV ONTARIO
-http://flussonic.finetv.xyz/auth?channel=CbcTvOntario&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CbcTvOntario&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/CBC.png",CBC TV QUEBEC
-http://flussonic.finetv.xyz/auth?channel=CbcTvQuebec&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CbcTvQuebec&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/CBC.png",CBC VANCOUVER
-http://flussonic.finetv.xyz/auth?channel=CbcVancouver&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CbcVancouver&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/CBC.png",CBC WINDSOR
-http://flussonic.finetv.xyz/auth?channel=CbcWindsor&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CbcWindsor&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/CBC.png",CBC WINNIPEG
-http://flussonic.finetv.xyz/auth?channel=CbcWinnipeg&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CbcWinnipeg&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/CBC.png",CBC YELLOWKNIFE
-http://flussonic.finetv.xyz/auth?channel=CbcYellowknife&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CbcYellowknife&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/CBS.png",CBS CANADA
-http://flussonic.finetv.xyz/auth?channel=CbsCanada&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CbsCanada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/City_TV.png",CITY TV
-http://flussonic.finetv.xyz/auth?channel=CityTv&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CityTv&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/City_TV.png",CITY TV CALGARY
-http://flussonic.finetv.xyz/auth?channel=CityTvCalgary&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CityTvCalgary&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/City_TV.png",CITY TV TORONTO
-http://flussonic.finetv.xyz/auth?channel=CityTvToronto&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CityTvToronto&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/City_TV.png",CITY TV VANCOUVER
-http://flussonic.finetv.xyz/auth?channel=CityTvVancouver&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CityTvVancouver&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/CNBC.png",CNBC CANADA
-http://flussonic.finetv.xyz/auth?channel=CnbcCanada&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CnbcCanada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/CP24.png",CP24
-http://flussonic.finetv.xyz/auth?channel=Cp24&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Cp24&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Crave.png",CRAVE 1
-http://flussonic.finetv.xyz/auth?channel=Crave1&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Crave1&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Crave.png",CRAVE 2
-http://flussonic.finetv.xyz/auth?channel=Crave2&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Crave2&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Crave.png",CRAVE 3
-http://flussonic.finetv.xyz/auth?channel=Crave3&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Crave3&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Crave.png",CRAVE 4
-http://flussonic.finetv.xyz/auth?channel=Crave4&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Crave4&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/CTV.png",CTV
-http://flussonic.finetv.xyz/auth?channel=Ctv&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Ctv&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/CTV.png",CTV 2
-http://flussonic.finetv.xyz/auth?channel=Ctv2&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Ctv2&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/CTV.png",CTV COMEDY
-http://flussonic.finetv.xyz/auth?channel=CtvComedy&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CtvComedy&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/CTV.png",CTV DRAMA
-http://flussonic.finetv.xyz/auth?channel=CtvDrama&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CtvDrama&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/CTV.png",CTV NEWS CHANNEL
-http://flussonic.finetv.xyz/auth?channel=CtvNewsChannel&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CtvNewsChannel&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/CTV.png",CTV NORTH BAY
-http://flussonic.finetv.xyz/auth?channel=CtvNorthBay&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CtvNorthBay&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/CTV.png",CTV SCIFI
-http://flussonic.finetv.xyz/auth?channel=CtvScifi&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CtvScifi&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/CTV.png",CTV TORONTO
-http://flussonic.finetv.xyz/auth?channel=CtvToronto&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CtvToronto&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Discovery.png",DISCOVERY CHANNEL CANADA
-http://flussonic.finetv.xyz/auth?channel=DiscoveryChannelCanada&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=DiscoveryChannelCanada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Discovery.png",DISCOVERY SCIENCE CANADA
-http://flussonic.finetv.xyz/auth?channel=DiscoveryScienceCanada&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=DiscoveryScienceCanada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/E.png",E! CANADA
-http://flussonic.finetv.xyz/auth?channel=E%21Canada&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=E!Canada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Food_Network.png",FOOD NETWORK CANADA
-http://flussonic.finetv.xyz/auth?channel=FoodNetworkCanada&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=FoodNetworkCanada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/FX.png",FX CANADA
-http://flussonic.finetv.xyz/auth?channel=FxCanada&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=FxCanada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/FXX.png",FXX CANADA
-http://flussonic.finetv.xyz/auth?channel=FxxCanada&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=FxxCanada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Global.png",GLOBAL ALBERTA NEWS
-http://flussonic.finetv.xyz/auth?channel=GlobalAlbertaNews&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=GlobalAlbertaNews&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Global.png",GLOBAL BRITISH COLUMBIA
-http://flussonic.finetv.xyz/auth?channel=GlobalBritishColumbia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=GlobalBritishColumbia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Global.png",GLOBAL BRITISH COLUMBIA NEWS
-http://flussonic.finetv.xyz/auth?channel=GlobalBritishColumbiaNews&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=GlobalBritishColumbiaNews&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Global.png",GLOBAL CALGARY
-http://flussonic.finetv.xyz/auth?channel=GlobalCalgary&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=GlobalCalgary&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Global.png",GLOBAL EDMONTON
-http://flussonic.finetv.xyz/auth?channel=GlobalEdmonton&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=GlobalEdmonton&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Global.png",GLOBAL MARITIMES
-http://flussonic.finetv.xyz/auth?channel=GlobalMaritimes&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=GlobalMaritimes&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Global.png",GLOBAL NATIONAL NEWS
-http://flussonic.finetv.xyz/auth?channel=GlobalNationalNews&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=GlobalNationalNews&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Global.png",GLOBAL ONTARIO NEWS
-http://flussonic.finetv.xyz/auth?channel=GlobalOntarioNews&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=GlobalOntarioNews&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Global.png",GLOBAL TORONTO
-http://flussonic.finetv.xyz/auth?channel=GlobalToronto&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=GlobalToronto&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/GSN.png",GSN CANADA
-http://flussonic.finetv.xyz/auth?channel=GsnCanada&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=GsnCanada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/HGTV.png",HGTV CANADA
-http://flussonic.finetv.xyz/auth?channel=HgtvCanada&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=HgtvCanada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/History.png",HISTORY CANADA
-http://flussonic.finetv.xyz/auth?channel=HistoryCanada&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=HistoryCanada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/ID.png",INVESTIGATION DISCOVERY CANADA
-http://flussonic.finetv.xyz/auth?channel=InvestigationDiscoveryCanada&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=InvestigationDiscoveryCanada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/MSNBC.png",MSNBC CANADA
-http://flussonic.finetv.xyz/auth?channel=MsnbcCanada&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=MsnbcCanada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Nat_Geo.png",NATIONAL GEOGRAPHIC CANADA
-http://flussonic.finetv.xyz/auth?channel=NationalGeographicCanada&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=NationalGeographicCanada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Nat_Geo.png",NATIONAL GEOGRAPHIC WILD CANADA
-http://flussonic.finetv.xyz/auth?channel=NationalGeographicWildCanada&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=NationalGeographicWildCanada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/OLN.png",OLN
-http://flussonic.finetv.xyz/auth?channel=Oln&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Oln&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/OMNI.png",OMNI 1
-http://flussonic.finetv.xyz/auth?channel=Omni1&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Omni1&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/OMNI.png",OMNI 2
-http://flussonic.finetv.xyz/auth?channel=Omni2&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Omni2&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Showcase.png",SHOW CASE CANADA
-http://flussonic.finetv.xyz/auth?channel=ShowCaseCanada&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ShowCaseCanada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Slice.png",SLICE CANADA
-http://flussonic.finetv.xyz/auth?channel=SliceCanada&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SliceCanada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/TSC.png",THE SHOPPING CHANNEL
-http://flussonic.finetv.xyz/auth?channel=TheShoppingChannel&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=TheShoppingChannel&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/TWN.png",THE WEATHER NETWORK
-http://flussonic.finetv.xyz/auth?channel=TheWeatherNetwork&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=TheWeatherNetwork&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/TLC.png",TLC CANADA
-http://flussonic.finetv.xyz/auth?channel=TlcCanada&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=TlcCanada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/W_Network.png",W NETWORK CANADA
-http://flussonic.finetv.xyz/auth?channel=WNetworkCanada&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=WNetworkCanada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Yes_TV.png",YES TV
-http://flussonic.finetv.xyz/auth?channel=YesTv&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=YesTv&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/AE.png",A&E USA
-http://flussonic.finetv.xyz/auth?channel=A%26EUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=A&EUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/ABC.png",ABC BUFFALO
-http://flussonic.finetv.xyz/auth?channel=AbcBuffalo&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=AbcBuffalo&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/ABC.png",ABC FAMILY
-http://flussonic.finetv.xyz/auth?channel=AbcFamily&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=AbcFamily&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/ABC.png",ABC NEWS
-http://flussonic.finetv.xyz/auth?channel=AbcNews&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=AbcNews&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/ABC.png",ABC SPARK
-http://flussonic.finetv.xyz/auth?channel=AbcSpark&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=AbcSpark&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/ABC.png",ABC USA
-http://flussonic.finetv.xyz/auth?channel=AbcUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=AbcUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/AFV.png",AFV
-http://flussonic.finetv.xyz/auth?channel=Afv&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Afv&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/AMC.png",AMC USA
-http://flussonic.finetv.xyz/auth?channel=AmcUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=AmcUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Animal_Planet.png",ANIMAL PLANET USA
-http://flussonic.finetv.xyz/auth?channel=AnimalPlanetUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=AnimalPlanetUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/BBC_America.png",BBC AMERICA
-http://flussonic.finetv.xyz/auth?channel=BbcAmerica&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BbcAmerica&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bet.png",BET HER USA
-http://flussonic.finetv.xyz/auth?channel=BetHerUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BetHerUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bet.png",BET USA
-http://flussonic.finetv.xyz/auth?channel=BetUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BetUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bravo.png",BRAVO USA
-http://flussonic.finetv.xyz/auth?channel=BravoUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BravoUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/CBC.png",CBC
-http://flussonic.finetv.xyz/auth?channel=Cbc&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Cbc&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/CBS.png",CBS DRAMA
-http://flussonic.finetv.xyz/auth?channel=CbsDrama&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CbsDrama&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/CBS.png",CBS USA
-http://flussonic.finetv.xyz/auth?channel=CbsUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CbsUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/CBSN.png",CBSN
-http://flussonic.finetv.xyz/auth?channel=Cbsn&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Cbsn&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Charge.png",CHARGE!
-http://flussonic.finetv.xyz/auth?channel=Charge!&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Charge!&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/CNBC.png",CNBC USA
-http://flussonic.finetv.xyz/auth?channel=CnbcUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CnbcUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/CNBC.png",CNBC WORLD
-http://flussonic.finetv.xyz/auth?channel=CnbcWorld&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CnbcWorld&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/CNN.png",CNN
-http://flussonic.finetv.xyz/auth?channel=Cnn&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Cnn&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Comet_TV.png",COMET TV
-http://flussonic.finetv.xyz/auth?channel=CometTv&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CometTv&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/The_CW.png",THE CW
-http://flussonic.finetv.xyz/auth?channel=Cw&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Cw&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Discovery.png",DISCOVERY CHANNEL USA
-http://flussonic.finetv.xyz/auth?channel=DiscoveryChannelUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=DiscoveryChannelUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Discovery.png",DISCOVERY FAMILY USA
-http://flussonic.finetv.xyz/auth?channel=DiscoveryFamilyUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=DiscoveryFamilyUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Discovery.png",DISCOVERY LIFE USA
-http://flussonic.finetv.xyz/auth?channel=DiscoveryLifeUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=DiscoveryLifeUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Discovery.png",DISCOVERY SCIENCE USA
-http://flussonic.finetv.xyz/auth?channel=DiscoveryScienceUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=DiscoveryScienceUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Discovery.png",DISCOVERY VELOCITY USA
-http://flussonic.finetv.xyz/auth?channel=DiscoveryVelocityUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=DiscoveryVelocityUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/E.png",E! USA
-http://flussonic.finetv.xyz/auth?channel=E%21Usa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=E!Usa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Fail_Army.png",FAIL ARMY
-http://flussonic.finetv.xyz/auth?channel=FailArmy&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=FailArmy&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Food_Network.png",FOOD NETWORK USA
-http://flussonic.finetv.xyz/auth?channel=FoodNetworkUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=FoodNetworkUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Fox.png",FOX 25
-http://flussonic.finetv.xyz/auth?channel=Fox25&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Fox25&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Fox.png",FOX 29
-http://flussonic.finetv.xyz/auth?channel=Fox29&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Fox29&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Fox.png",FOX 4
-http://flussonic.finetv.xyz/auth?channel=Fox4&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Fox4&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Fox.png",FOX BUFFALO
-http://flussonic.finetv.xyz/auth?channel=FoxBuffalo&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=FoxBuffalo&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Fox.png",FOX BUSINESS
-http://flussonic.finetv.xyz/auth?channel=FoxBusiness&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=FoxBusiness&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Fox.png",FOX LIFE USA
-http://flussonic.finetv.xyz/auth?channel=FoxLifeUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=FoxLifeUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Fox.png",FOX NEWS
-http://flussonic.finetv.xyz/auth?channel=FoxNews&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=FoxNews&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/FX.png",FX USA
-http://flussonic.finetv.xyz/auth?channel=FxUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=FxUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/FXM.png",FXM USA
-http://flussonic.finetv.xyz/auth?channel=FxmUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=FxmUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/FXX.png",FXX USA
-http://flussonic.finetv.xyz/auth?channel=FxxUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=FxxUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/GSN.png",GSN USA
-http://flussonic.finetv.xyz/auth?channel=GsnUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=GsnUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/HBO.png",HBO 1 EAST
-http://flussonic.finetv.xyz/auth?channel=Hbo1East&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Hbo1East&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/HBO.png",HBO 1 WEST
-http://flussonic.finetv.xyz/auth?channel=Hbo1West&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Hbo1West&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/HBO.png",HBO 2
-http://flussonic.finetv.xyz/auth?channel=Hbo2&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Hbo2&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/HBO.png",HBO COMEDY
-http://flussonic.finetv.xyz/auth?channel=HboComedy&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=HboComedy&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/HBO.png",HBO FAMILY
-http://flussonic.finetv.xyz/auth?channel=HboFamily&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=HboFamily&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/HBO.png",HBO SIGNATURE
-http://flussonic.finetv.xyz/auth?channel=HboSignature&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=HboSignature&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/HBO.png",HBO ZONE
-http://flussonic.finetv.xyz/auth?channel=HboZone&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=HboZone&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/HGTV.png",HGTV USA
-http://flussonic.finetv.xyz/auth?channel=HgtvUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=HgtvUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/History.png",HISTORY USA
-http://flussonic.finetv.xyz/auth?channel=HistoryUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=HistoryUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/History.png",HISTORY 2 USA
-http://flussonic.finetv.xyz/auth?channel=History2Usa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=History2Usa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Hln.png",HLN
-http://flussonic.finetv.xyz/auth?channel=Hln&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Hln&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/ID.png",INVESTIGATION DISCOVERY USA
-http://flussonic.finetv.xyz/auth?channel=InvestigationDiscoveryUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=InvestigationDiscoveryUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/MSNBC.png",MSNBC USA
-http://flussonic.finetv.xyz/auth?channel=MsnbcUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=MsnbcUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Nat_Geo.png",NATIONAL GEOGRAPHIC USA
-http://flussonic.finetv.xyz/auth?channel=NationalGeographicUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=NationalGeographicUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Nat_Geo.png",NATIONAL GEOGRAPHIC WILD USA
-http://flussonic.finetv.xyz/auth?channel=NationalGeographicWildUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=NationalGeographicWildUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/NBC.png",NBC
-http://flussonic.finetv.xyz/auth?channel=Nbc&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Nbc&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Outdoor.png",OUTDOOR CHANNEL
-http://flussonic.finetv.xyz/auth?channel=OutdoorChannel&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=OutdoorChannel&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Starz.png",STARZ CINEMA
-http://flussonic.finetv.xyz/auth?channel=StarzCinema&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=StarzCinema&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Starz.png",STARZ COMEDY
-http://flussonic.finetv.xyz/auth?channel=StarzComedy&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=StarzComedy&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Starz.png",STARZ EAST
-http://flussonic.finetv.xyz/auth?channel=StarzEast&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=StarzEast&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Starz.png",STARZ EDGE
-http://flussonic.finetv.xyz/auth?channel=StarzEdge&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=StarzEdge&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Starz.png",STARZ ENCORE ACTION
-http://flussonic.finetv.xyz/auth?channel=StarzEncoreAction&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=StarzEncoreAction&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Starz.png",STARZ ENCORE BLACK
-http://flussonic.finetv.xyz/auth?channel=StarzEncoreBlack&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=StarzEncoreBlack&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Starz.png",STARZ ENCORE CLASSIC
-http://flussonic.finetv.xyz/auth?channel=StarzEncoreClassic&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=StarzEncoreClassic&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Starz.png",STARZ ENCORE EAST
-http://flussonic.finetv.xyz/auth?channel=StarzEncoreEast&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=StarzEncoreEast&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Starz.png",STARZ ENCORE FAMILY
-http://flussonic.finetv.xyz/auth?channel=StarzEncoreFamily&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=StarzEncoreFamily&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Starz.png",STARZ ENCORE SUSPENSE
-http://flussonic.finetv.xyz/auth?channel=StarzEncoreSuspense&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=StarzEncoreSuspense&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Starz.png",STARZ ENCORE WEST
-http://flussonic.finetv.xyz/auth?channel=StarzEncoreWest&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=StarzEncoreWest&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Starz.png",STARZ IN BLACK
-http://flussonic.finetv.xyz/auth?channel=StarzInBlack&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=StarzInBlack&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Starz.png",STARZ KIDS AND FAMILY
-http://flussonic.finetv.xyz/auth?channel=StarzKidsAndFamily&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=StarzKidsAndFamily&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Starz.png",STARZ WEST
-http://flussonic.finetv.xyz/auth?channel=StarzWest&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=StarzWest&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/TBD.png",TBD
-http://flussonic.finetv.xyz/auth?channel=Tbd&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Tbd&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Tbs.png",TBS
-http://flussonic.finetv.xyz/auth?channel=Tbs&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Tbs&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/TWC.png",THE WEATHER CHANNEL
-http://flussonic.finetv.xyz/auth?channel=TheWeatherChannel&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=TheWeatherChannel&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/TLC.png",TLC USA
-http://flussonic.finetv.xyz/auth?channel=TlcUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=TlcUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/TNT.png",TNT
-http://flussonic.finetv.xyz/auth?channel=Tnt&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Tnt&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/TV_Land.png",TV LAND
-http://flussonic.finetv.xyz/auth?channel=TvLand&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=TvLand&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/USA_NET.png",USA NETWORK
-http://flussonic.finetv.xyz/auth?channel=UsaNetwork&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=UsaNetwork&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Weather_Nation.png",WEATHER NATION
-http://flussonic.finetv.xyz/auth?channel=WeatherNation&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=WeatherNation&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bet.png",BET UK
-http://flussonic.finetv.xyz/auth?channel=BetUk&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BetUk&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Discovery.png",DISCOVERY CHANNEL UK
-http://flussonic.finetv.xyz/auth?channel=DiscoveryChannelUk&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=DiscoveryChannelUk&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Discovery.png",DISCOVERY SCIENCE UK
-http://flussonic.finetv.xyz/auth?channel=DiscoveryScienceUk&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=DiscoveryScienceUk&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Discovery.png",DISCOVERY TURBO UK
-http://flussonic.finetv.xyz/auth?channel=DiscoveryTurboUk&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=DiscoveryTurboUk&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Food_Network.png",FOOD NETWORK UK
-http://flussonic.finetv.xyz/auth?channel=FoodNetworkUk&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=FoodNetworkUk&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/History.png",HISTORY UK
-http://flussonic.finetv.xyz/auth?channel=HistoryUk&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=HistoryUk&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/ID.png",INVESTIGATION DISCOVERY UK
-http://flussonic.finetv.xyz/auth?channel=InvestigationDiscoveryUk&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=InvestigationDiscoveryUk&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sky_Living.png",SKY LIVING
-http://flussonic.finetv.xyz/auth?channel=SkyLiving&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SkyLiving&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sky_Two.png",SKY TWO
-http://flussonic.finetv.xyz/auth?channel=SkyTwo&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SkyTwo&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Starz.png",STARZ UK
-http://flussonic.finetv.xyz/auth?channel=StarzUk&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=StarzUk&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Yesterday_TV.png",YESTERDAY
-http://flussonic.finetv.xyz/auth?channel=Yesterday&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Yesterday&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/And_Flix.png",AND FLIX
-http://flussonic.finetv.xyz/auth?channel=AndFlix&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=AndFlix&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/And_Prive.png",AND PRIVE
-http://flussonic.finetv.xyz/auth?channel=AndPrive&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=AndPrive&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Animal_Planet.png",ANIMAL PLANET ENGLISH INDIA
-http://flussonic.finetv.xyz/auth?channel=AnimalPlanetEnglishIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=AnimalPlanetEnglishIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/AXN.png",AXN
-http://flussonic.finetv.xyz/auth?channel=Axn&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Axn&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/CNBC.png",CNBC INDIA
-http://flussonic.finetv.xyz/auth?channel=CnbcIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CnbcIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Discovery.png",DISCOVERY ENGLISH INDIA
-http://flussonic.finetv.xyz/auth?channel=DiscoveryEnglishIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=DiscoveryEnglishIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Fox_Life.png",FOX LIFE ENGLISH INDIA
-http://flussonic.finetv.xyz/auth?channel=FoxLifeEnglishIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=FoxLifeEnglishIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/HBO.png",HBO INDIA
-http://flussonic.finetv.xyz/auth?channel=HboIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=HboIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/History.png",HISTORY ENGLISH INDIA
-http://flussonic.finetv.xyz/auth?channel=HistoryEnglishIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=HistoryEnglishIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Mirror_Now.png",MIRROR NOW
-http://flussonic.finetv.xyz/auth?channel=MirrorNow&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=MirrorNow&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Movies_Now.png",MOVIES NOW
-http://flussonic.finetv.xyz/auth?channel=MoviesNow&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=MoviesNow&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Movies_Now_Plus.png",MOVIES NOW PLUS
-http://flussonic.finetv.xyz/auth?channel=MoviesNowPlus&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=MoviesNowPlus&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Movies_Now_X.png",MOVIES NOW X
-http://flussonic.finetv.xyz/auth?channel=MoviesNowX&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=MoviesNowX&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Romedy_Now.png",ROMEDY NOW
-http://flussonic.finetv.xyz/auth?channel=RomedyNow&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=RomedyNow&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sony_BBC_Earth.png",SONY BBC EARTH ENGLISH INDIA
-http://flussonic.finetv.xyz/auth?channel=SonyBbcEarthEnglishIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SonyBbcEarthEnglishIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sony_Pix.png",SONY PIX INDIA
-http://flussonic.finetv.xyz/auth?channel=SonyPixIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SonyPixIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Star_Movies.png",STAR MOVIES INDIA
-http://flussonic.finetv.xyz/auth?channel=StarMoviesIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=StarMoviesIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Star_Movies_Select.png",STAR MOVIES SELECT INDIA
-http://flussonic.finetv.xyz/auth?channel=StarMoviesSelectIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=StarMoviesSelectIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Star_World.png",STAR WORLD INDIA
-http://flussonic.finetv.xyz/auth?channel=StarWorldIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=StarWorldIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Star_World_Premier.png",STAR WORLD PREMIER INDIA
-http://flussonic.finetv.xyz/auth?channel=StarWorldPremierIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=StarWorldPremierIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Times_Now.png",TIMES NOW
-http://flussonic.finetv.xyz/auth?channel=TimesNow&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=TimesNow&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/TLC.png",TLC ENGLISH INDIA
-http://flussonic.finetv.xyz/auth?channel=TlcEnglishIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=TlcEnglishIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Travel_XP.png",TRAVEL XP INDIA ENGLISH
-http://flussonic.finetv.xyz/auth?channel=TravelXpIndiaEnglish&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=TravelXpIndiaEnglish&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/9X_Jalwa.png",9X JALWA
-http://flussonic.finetv.xyz/auth?channel=9xJalwa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=9xJalwa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/9XM.png",9XM
-http://flussonic.finetv.xyz/auth?channel=9xM&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=9xM&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Aajtak.png",AAJTAK
-http://flussonic.finetv.xyz/auth?channel=AajTak&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=AajTak&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Aajtak.png",AAJTAK TEZ
-http://flussonic.finetv.xyz/auth?channel=AajtakTez&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=AajtakTez&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/And_Pictures.png",AND PICTURES
-http://flussonic.finetv.xyz/auth?channel=AndPictures&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=AndPictures&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/And_TV.png",AND TV
-http://flussonic.finetv.xyz/auth?channel=AndTv&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=AndTv&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Animal_Planet.png",ANIMAL PLANET HINDI INDIA
-http://flussonic.finetv.xyz/auth?channel=AnimalPlanetHindiIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=AnimalPlanetHindiIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Aone_TV.png",AONE TV
-http://flussonic.finetv.xyz/auth?channel=AoneTv&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=AoneTv&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/B4U_Kadak.png",B4U KADAK INDIA
-http://flussonic.finetv.xyz/auth?channel=B4uKadakIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=B4uKadakIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/B4U_Movies.png",B4U MOVIES INDIA
-http://flussonic.finetv.xyz/auth?channel=B4uMoviesIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=B4uMoviesIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/B4U_Movies.png",B4U MOVIES UK
-http://flussonic.finetv.xyz/auth?channel=B4uMoviesUk&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=B4uMoviesUk&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/B4U_Music.png",B4U MUSIC INDIA
-http://flussonic.finetv.xyz/auth?channel=B4uMusicIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=B4uMusicIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/B4U_Music.png",B4U MUSIC UK
-http://flussonic.finetv.xyz/auth?channel=B4uMusicUk&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=B4uMusicUk&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bollywood.png",BOLLYWOOD ACTION
-http://flussonic.finetv.xyz/auth?channel=BollywoodAction&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BollywoodAction&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bollywood.png",BOLLYWOOD CLASSIC
-http://flussonic.finetv.xyz/auth?channel=BollywoodClassic&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BollywoodClassic&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bollywood.png",BOLLYWOOD CLASSICS
-http://flussonic.finetv.xyz/auth?channel=BollywoodClassics&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BollywoodClassics&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bollywood.png",BOLLYWOOD COMEDY
-http://flussonic.finetv.xyz/auth?channel=BollywoodComedy&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BollywoodComedy&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bollywood.png",BOLLYWOOD DRAMA
-http://flussonic.finetv.xyz/auth?channel=BollywoodDrama&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BollywoodDrama&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bollywood.png",BOLLYWOOD NEW RELEASE
-http://flussonic.finetv.xyz/auth?channel=BollywoodNewRelease&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BollywoodNewRelease&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bollywood.png",BOLLYWOOD NONSTOP
-http://flussonic.finetv.xyz/auth?channel=BollywoodNonstop&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BollywoodNonstop&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bollywood.png",BOLLYWOOD PREMIERE
-http://flussonic.finetv.xyz/auth?channel=BollywoodPremiere&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BollywoodPremiere&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bollywood.png",BOLLYWOOD SCIFI HORROR
-http://flussonic.finetv.xyz/auth?channel=BollywoodScifiHorror&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BollywoodScifiHorror&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Cine_Active.png",CINE ACTIVE
-http://flussonic.finetv.xyz/auth?channel=CineActive&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CineActive&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Cinema_TV.png",CINEMA TV
-http://flussonic.finetv.xyz/auth?channel=CinemaTv&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CinemaTv&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Cineplex.png",COLORS CINEPLEX ASIA
-http://flussonic.finetv.xyz/auth?channel=ColorsCineplexAsia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ColorsCineplexAsia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Cineplex.png",COLORS CINEPLEX INDIA
-http://flussonic.finetv.xyz/auth?channel=ColorsCineplexIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ColorsCineplexIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Cineplex.png",COLORS CINEPLEX UK
-http://flussonic.finetv.xyz/auth?channel=ColorsCineplexUk&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ColorsCineplexUk&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Cineplex.png",COLORS CINEPLEX USA
-http://flussonic.finetv.xyz/auth?channel=ColorsCineplexUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ColorsCineplexUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Colors.png",COLORS HD INDIA
-http://flussonic.finetv.xyz/auth?channel=ColorsHdIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ColorsHdIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Rishtey.png",COLORS RISHTEY ASIA
-http://flussonic.finetv.xyz/auth?channel=ColorsRishteyAsia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ColorsRishteyAsia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Rishtey.png",COLORS RISHTEY CANADA
-http://flussonic.finetv.xyz/auth?channel=ColorsRishteyCanada&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ColorsRishteyCanada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Rishtey.png",COLORS RISHTEY INDIA
-http://flussonic.finetv.xyz/auth?channel=ColorsRishteyIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ColorsRishteyIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Rishtey.png",COLORS RISHTEY UK
-http://flussonic.finetv.xyz/auth?channel=ColorsRishteyUk&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ColorsRishteyUk&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Rishtey.png",COLORS RISHTEY USA
-http://flussonic.finetv.xyz/auth?channel=ColorsRishteyUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ColorsRishteyUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Colors.png",COLORS USA
-http://flussonic.finetv.xyz/auth?channel=ColorsUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ColorsUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/DD_National.png",DD NATIONAL
-http://flussonic.finetv.xyz/auth?channel=DdNational&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=DdNational&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Aajtak.png",DELHI AAJTAK
-http://flussonic.finetv.xyz/auth?channel=DelhiAajTak&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=DelhiAajTak&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Discovery.png",DISCOVERY HINDI INDIA
-http://flussonic.finetv.xyz/auth?channel=DiscoveryHindiIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=DiscoveryHindiIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Divya_TV.png",DIVYA TV
-http://flussonic.finetv.xyz/auth?channel=DivyaTv&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=DivyaTv&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Fastway_News.png",FASTWAY NEWS
-http://flussonic.finetv.xyz/auth?channel=FastwayNews&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=FastwayNews&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Food_Food.png",FOOD FOOD INDIA
-http://flussonic.finetv.xyz/auth?channel=FoodFoodIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=FoodFoodIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Fox_Life.png",FOX LIFE HINDI INDIA
-http://flussonic.finetv.xyz/auth?channel=FoxLifeHindiIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=FoxLifeHindiIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/History.png",HISTORY HINDI INDIA
-http://flussonic.finetv.xyz/auth?channel=HistoryHindiIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=HistoryHindiIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Housefull_Movies.png",HOUSEFULL MOVIES
-http://flussonic.finetv.xyz/auth?channel=HousefullMovies&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=HousefullMovies&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/IBC_24.png",IBC 24
-http://flussonic.finetv.xyz/auth?channel=Ibc24&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Ibc24&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/India_TV.png",INDIA TV
-http://flussonic.finetv.xyz/auth?channel=IndiaTv&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=IndiaTv&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Jus_Hindi.png",JUS HINDI
-http://flussonic.finetv.xyz/auth?channel=JusHindi&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=JusHindi&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/MH_One.png",MH ONE NEWS
-http://flussonic.finetv.xyz/auth?channel=MhOneNews&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=MhOneNews&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Miniplex.png",MINIPLEX
-http://flussonic.finetv.xyz/auth?channel=Miniplex&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Miniplex&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Movies_Active.png",MOVIES ACTIVE
-http://flussonic.finetv.xyz/auth?channel=MoviesActive&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=MoviesActive&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Music_India.png",MUSIC INDIA
-http://flussonic.finetv.xyz/auth?channel=MusicIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=MusicIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Nat_Geo.png",NATIONAL GEOGRAPHIC WILD INDIA
-http://flussonic.finetv.xyz/auth?channel=NationalGeographicWildIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=NationalGeographicWildIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/NDTV_India.png",NDTV INDIA
-http://flussonic.finetv.xyz/auth?channel=NdtvIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=NdtvIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/News_24.png",NEWS 24
-http://flussonic.finetv.xyz/auth?channel=News24&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=News24&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sony_BBC_Earth.png",SONY BBC EARTH HINDI INDIA
-http://flussonic.finetv.xyz/auth?channel=SonyBbcEarthHindiIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SonyBbcEarthHindiIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sony_Max.png",SONY MAX 2 INDIA
-http://flussonic.finetv.xyz/auth?channel=SonyMax2India&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SonyMax2India&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sony_Max.png",SONY MAX 2 USA
-http://flussonic.finetv.xyz/auth?channel=SonyMax2Usa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SonyMax2Usa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sony_Max.png",SONY MAX HD INDIA
-http://flussonic.finetv.xyz/auth?channel=SonyMaxHdIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SonyMaxHdIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sony_Max.png",SONY MAX SD INDIA
-http://flussonic.finetv.xyz/auth?channel=SonyMaxSdIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SonyMaxSdIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sony_Max.png",SONY MAX UK
-http://flussonic.finetv.xyz/auth?channel=SonyMaxUk&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SonyMaxUk&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sony_Max.png",SONY MAX USA
-http://flussonic.finetv.xyz/auth?channel=SonyMaxUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SonyMaxUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sony_Pal.png",SONY PAL INDIA
-http://flussonic.finetv.xyz/auth?channel=SonyPalIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SonyPalIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sony_Sab.png",SONY SAB INDIA
-http://flussonic.finetv.xyz/auth?channel=SonySabIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SonySabIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sony_Sab.png",SONY SAB USA
-http://flussonic.finetv.xyz/auth?channel=SonySabUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SonySabUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sony_Set.png",SONY TV HD INDIA
-http://flussonic.finetv.xyz/auth?channel=SonyTvHdIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SonyTvHdIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sony_Set.png",SONY TV SD INDIA
-http://flussonic.finetv.xyz/auth?channel=SonyTvSdIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SonyTvSdIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sony_Set.png",SONY TV UK
-http://flussonic.finetv.xyz/auth?channel=SonyTvUk&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SonyTvUk&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sony_Set.png",SONY TV USA EAST
-http://flussonic.finetv.xyz/auth?channel=SonyTvUsaEast&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SonyTvUsaEast&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sony_Set.png",SONY TV USA WEST
-http://flussonic.finetv.xyz/auth?channel=SonyTvUsaWest&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SonyTvUsaWest&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sony_Wah.png",SONY WAH INDIA
-http://flussonic.finetv.xyz/auth?channel=SonyWahIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SonyWahIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Star_Bharat.png",STAR BHARAT INDIA
-http://flussonic.finetv.xyz/auth?channel=StarBharatIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=StarBharatIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Star_Bharat.png",STAR BHARAT UK
-http://flussonic.finetv.xyz/auth?channel=StarBharatUk&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=StarBharatUk&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Star_Bharat.png",STAR BHARAT USA
-http://flussonic.finetv.xyz/auth?channel=StarBharatUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=StarBharatUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Star_Gold.png",STAR GOLD 2 INDIA
-http://flussonic.finetv.xyz/auth?channel=StarGold2India&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=StarGold2India&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Star_Gold.png",STAR GOLD INDIA
-http://flussonic.finetv.xyz/auth?channel=StarGoldIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=StarGoldIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Star_Gold_Select.png",STAR GOLD SELECT INDIA
-http://flussonic.finetv.xyz/auth?channel=StarGoldSelectIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=StarGoldSelectIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Star_Gold.png",STAR GOLD UK
-http://flussonic.finetv.xyz/auth?channel=StarGoldUk&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=StarGoldUk&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Star_Plus.png",STAR PLUS INDIA
-http://flussonic.finetv.xyz/auth?channel=StarPlusIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=StarPlusIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Star_Plus.png",STAR PLUS UK
-http://flussonic.finetv.xyz/auth?channel=StarPlusUk&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=StarPlusUk&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Star_Plus.png",STAR PLUS USA
-http://flussonic.finetv.xyz/auth?channel=StarPlusUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=StarPlusUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Star_Utsav.png",STAR UTSAV INDIA
-http://flussonic.finetv.xyz/auth?channel=StarUtsavIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=StarUtsavIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Tata_Sky_Bollywood.png",TATA SKY BOLLYWOOD PREMIERE
-http://flussonic.finetv.xyz/auth?channel=TataSkyBollywoodPremiere&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=TataSkyBollywoodPremiere&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/TLC.png",TLC HINDI INDIA
-http://flussonic.finetv.xyz/auth?channel=TlcHindiIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=TlcHindiIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Travel_XP.png",TRAVEL XP INDIA HINDI
-http://flussonic.finetv.xyz/auth?channel=TravelXpIndiaHindi&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=TravelXpIndiaHindi&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/TV84.png",TV 84
-http://flussonic.finetv.xyz/auth?channel=Tv84&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Tv84&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/TV100.png",TV 100
-http://flussonic.finetv.xyz/auth?channel=Tv100&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Tv100&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Utv.png",UTV
-http://flussonic.finetv.xyz/auth?channel=Utv&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Utv&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Utv_Action.png",UTV ACTION
-http://flussonic.finetv.xyz/auth?channel=UtvAction&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=UtvAction&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Utv_Movies.png",UTV MOVIES
-http://flussonic.finetv.xyz/auth?channel=UtvMovies&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=UtvMovies&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Wow_Cinema.png",WOW CINEMA
-http://flussonic.finetv.xyz/auth?channel=WowCinema&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=WowCinema&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Zee_Action.png",ZEE ACTION
-http://flussonic.finetv.xyz/auth?channel=ZeeAction&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ZeeAction&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Zee_Anmol.png",ZEE ANMOL
-http://flussonic.finetv.xyz/auth?channel=ZeeAnmol&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ZeeAnmol&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Zee_Anmol_Cinema.png",ZEE ANMOL CINEMA
-http://flussonic.finetv.xyz/auth?channel=ZeeAnmolCinema&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ZeeAnmolCinema&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Zee_Bollywood.png",ZEE BOLLYWOOD
-http://flussonic.finetv.xyz/auth?channel=ZeeBollywood&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ZeeBollywood&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Zee_Cinema.png",ZEE CINEMA INDIA
-http://flussonic.finetv.xyz/auth?channel=ZeeCinemaIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ZeeCinemaIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Zee_Cinema.png",ZEE CINEMA MIDDLE EAST
-http://flussonic.finetv.xyz/auth?channel=ZeeCinemaMiddleEast&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ZeeCinemaMiddleEast&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Zee_Cinema.png",ZEE CINEMA UK
-http://flussonic.finetv.xyz/auth?channel=ZeeCinemaUk&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ZeeCinemaUk&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Zee_Cinema.png",ZEE CINEMA USA
-http://flussonic.finetv.xyz/auth?channel=ZeeCinemaUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ZeeCinemaUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Zee_Classic.png",ZEE CLASSIC
-http://flussonic.finetv.xyz/auth?channel=ZeeClassic&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ZeeClassic&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Zee_ETC.png",ZEE ETC
-http://flussonic.finetv.xyz/auth?channel=ZeeEtc&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ZeeEtc&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Zee_News.png",ZEE NEWS
-http://flussonic.finetv.xyz/auth?channel=ZeeNews&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ZeeNews&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Zee_Smile.png",ZEE SMILE
-http://flussonic.finetv.xyz/auth?channel=ZeeSmile&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ZeeSmile&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Zee_Theatre.png",ZEE THEATRE
-http://flussonic.finetv.xyz/auth?channel=ZeeTheatre&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ZeeTheatre&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Zee_TV.png",ZEE TV APAC
-http://flussonic.finetv.xyz/auth?channel=ZeeTvApac&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ZeeTvApac&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Zee_TV.png",ZEE TV CANADA
-http://flussonic.finetv.xyz/auth?channel=ZeeTvCanada&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ZeeTvCanada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Zee_TV.png",ZEE TV INDIA
-http://flussonic.finetv.xyz/auth?channel=ZeeTvIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ZeeTvIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Zee_TV.png",ZEE TV UK
-http://flussonic.finetv.xyz/auth?channel=ZeeTvUk&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ZeeTvUk&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Zee_TV.png",ZEE TV USA
-http://flussonic.finetv.xyz/auth?channel=ZeeTvUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ZeeTvUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Zing.png",ZING
-http://flussonic.finetv.xyz/auth?channel=Zing&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Zing&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/5AAB.png",5AAB TV
-http://flussonic.finetv.xyz/auth?channel=5AabTv&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=5AabTv&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/9x_Tashan.png",9X TASHAN
-http://flussonic.finetv.xyz/auth?channel=9xTashan&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=9xTashan&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Abp_Sanjha.png",ABP SANJHA
-http://flussonic.finetv.xyz/auth?channel=AbpSanjha&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=AbpSanjha&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Akaal.png",AKAAL
-http://flussonic.finetv.xyz/auth?channel=Akaal&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Akaal&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/ETC_Alpha.png",ALPHA ETC PUNJABI
-http://flussonic.finetv.xyz/auth?channel=EtcPunjabi&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=EtcPunjabi&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Amar_Ujala.png",AMAR UJALA
-http://flussonic.finetv.xyz/auth?channel=AmarUjala&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=AmarUjala&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/BBC_Toronto.png",BBC TORONTO
-http://flussonic.finetv.xyz/auth?channel=BbcToronto&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BbcToronto&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Chakde_TV.png",CHAKDE TV
-http://flussonic.finetv.xyz/auth?channel=ChakdeTv&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ChakdeTv&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Chardikla_Time_TV.png",CHARDIK TIME TV
-http://flussonic.finetv.xyz/auth?channel=ChardikTimeTv&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ChardikTimeTv&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Daily_Gurbani_TV.png",DAILY GURBANI TV
-http://flussonic.finetv.xyz/auth?channel=DailyGurbaniTv&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=DailyGurbaniTv&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/DD_Punjabi.png",DD PUNJABI
-http://flussonic.finetv.xyz/auth?channel=DdPunjabi&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=DdPunjabi&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Desi_Channel.png",DESI CHANNEL
-http://flussonic.finetv.xyz/auth?channel=DesiChannel&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=DesiChannel&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Hamdard_Laughter.png",HAMDARD LAUGHTER
-http://flussonic.finetv.xyz/auth?channel=HamdardLaughter&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=HamdardLaughter&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Hamdard_TV.png",HAMDARD TV
-http://flussonic.finetv.xyz/auth?channel=HamdardTv&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=HamdardTv&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Janta_TV.png",JANTA TV
-http://flussonic.finetv.xyz/auth?channel=JantaTv&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=JantaTv&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Jhanjar.png",JHANJAR MUSIC
-http://flussonic.finetv.xyz/auth?channel=JhanjarMusic&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=JhanjarMusic&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Jhanjar.png",JHANJAR TV
-http://flussonic.finetv.xyz/auth?channel=JhanjarTv&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=JhanjarTv&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Jus_One.png",JUS ONE
-http://flussonic.finetv.xyz/auth?channel=JusOne&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=JusOne&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Jus_Punjabi.png",JUS PUNJABI
-http://flussonic.finetv.xyz/auth?channel=JusPunjabi&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=JusPunjabi&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Khalistan_TV.png",KHALISTAN TV
-http://flussonic.finetv.xyz/auth?channel=KhalistanTv&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=KhalistanTv&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Nagara_TV.png",NAGARA TV
-http://flussonic.finetv.xyz/auth?channel=NagaraTv&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=NagaraTv&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Pardesi_TV.png",PARDESI TV
-http://flussonic.finetv.xyz/auth?channel=PardesiTv&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=PardesiTv&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/PBN_Music.png",PBN MUSIC
-http://flussonic.finetv.xyz/auth?channel=PbnMusic&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=PbnMusic&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Pitaara.png",PITAARA INTERNATIONAL
-http://flussonic.finetv.xyz/auth?channel=PitaaraInternational&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=PitaaraInternational&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Pitaara.png",PITAARA TV
-http://flussonic.finetv.xyz/auth?channel=PitaaraTv&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=PitaaraTv&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Prime_Asia.png",PRIME ASIA
-http://flussonic.finetv.xyz/auth?channel=PrimeAsia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=PrimeAsia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/PTC_Chakde.png",PTC CHAKDE
-http://flussonic.finetv.xyz/auth?channel=PtcChakde&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=PtcChakde&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/PTC_Dhol_TV.png",PTC DHOL
-http://flussonic.finetv.xyz/auth?channel=PtcDhol&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=PtcDhol&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/PTC_Music.png",PTC MUSIC
-http://flussonic.finetv.xyz/auth?channel=PtcMusic&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=PtcMusic&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/PTC_News.png",PTC NEWS
-http://flussonic.finetv.xyz/auth?channel=PtcNews&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=PtcNews&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/PTC_Punjabi.png",PTC PUNJABI
-http://flussonic.finetv.xyz/auth?channel=PtcPunjabi&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=PtcPunjabi&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/PTC_Punjabi_Gold.png",PTC PUNJABI GOLD
-http://flussonic.finetv.xyz/auth?channel=PtcPunjabiGold&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=PtcPunjabiGold&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/PTC_Simran.png",PTC SIMRAN
-http://flussonic.finetv.xyz/auth?channel=PtcSimran&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=PtcSimran&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/PTN_24.png",PTN 24
-http://flussonic.finetv.xyz/auth?channel=Ptn24&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Ptn24&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Pardesi_TV.png",PTV PARDESI
-http://flussonic.finetv.xyz/auth?channel=PtvPardesi&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=PtvPardesi&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Punjabi_Zindabad.png",PUNJABI ZINDABAD
-http://flussonic.finetv.xyz/auth?channel=PunjabiZindabad&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=PunjabiZindabad&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sikh_Channel.png",SIKH CHANNEL
-http://flussonic.finetv.xyz/auth?channel=SikhChannel&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SikhChannel&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sikh_Channel.png",SIKH CHANNEL USA
-http://flussonic.finetv.xyz/auth?channel=SikhChannelUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SikhChannelUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Punjab_TV.png",TV PUNJAB
-http://flussonic.finetv.xyz/auth?channel=TvPunjab&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=TvPunjab&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Zee_Punjabi.png",ZEE PUNJABI
-http://flussonic.finetv.xyz/auth?channel=ZeePunjabi&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ZeePunjabi&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Zee_Punjabi_News.png",ZEE PUNJABI NEWS
-http://flussonic.finetv.xyz/auth?channel=ZeePunjabiNews&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ZeePunjabiNews&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein.png",BEIN AMC
-http://flussonic.finetv.xyz/auth?channel=BeinAmc&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BeinAmc&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein.png",BEIN BARAEM
-http://flussonic.finetv.xyz/auth?channel=BeinBaraem&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BeinBaraem&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein.png",BEIN DISCOVERY LIFE
-http://flussonic.finetv.xyz/auth?channel=BeinDiscoveryLife&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BeinDiscoveryLife&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein.png",BEIN DISCOVERY MAX
-http://flussonic.finetv.xyz/auth?channel=BeinDiscoveryMax&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BeinDiscoveryMax&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein.png",BEIN DISCOVERY TURBO XTRA
-http://flussonic.finetv.xyz/auth?channel=BeinDiscoveryTurboXtra&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BeinDiscoveryTurboXtra&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein.png",BEIN DRAMA 1
-http://flussonic.finetv.xyz/auth?channel=BeinDrama1&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BeinDrama1&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein.png",BEIN FATAFEAT
-http://flussonic.finetv.xyz/auth?channel=BeinFatafeat&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BeinFatafeat&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein.png",BEIN FINE LIVING
-http://flussonic.finetv.xyz/auth?channel=BeinFineLiving&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BeinFineLiving&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein.png",BEIN FOOD NETWORK
-http://flussonic.finetv.xyz/auth?channel=BeinFoodNetwork&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BeinFoodNetwork&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein.png",BEIN FOX ACTION MOVIES
-http://flussonic.finetv.xyz/auth?channel=BeinFoxActionMovies&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BeinFoxActionMovies&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein.png",BEIN FOX FAMILY MOVIES
-http://flussonic.finetv.xyz/auth?channel=BeinFoxFamilyMovies&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BeinFoxFamilyMovies&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein.png",BEIN GOURMET
-http://flussonic.finetv.xyz/auth?channel=BeinGourmet&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BeinGourmet&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein.png",BEIN MOVIES 1
-http://flussonic.finetv.xyz/auth?channel=BeinMovies1&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BeinMovies1&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein.png",BEIN MOVIES 2
-http://flussonic.finetv.xyz/auth?channel=BeinMovies2&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BeinMovies2&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein.png",BEIN MOVIES 3
-http://flussonic.finetv.xyz/auth?channel=BeinMovies3&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BeinMovies3&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein.png",BEIN MOVIES 4
-http://flussonic.finetv.xyz/auth?channel=BeinMovies4&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BeinMovies4&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein.png",BEIN NATATIONAL GEOGRAPHIC WILD
-http://flussonic.finetv.xyz/auth?channel=BeinNatationalGeographicWild&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BeinNatationalGeographicWild&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein.png",BEIN NATIONAL GEOGRAPHIC
-http://flussonic.finetv.xyz/auth?channel=BeinNationalGeographic&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BeinNationalGeographic&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein.png",BEIN NATIONAL GEOGRAPHIC PEOPLE
-http://flussonic.finetv.xyz/auth?channel=BeinNationalGeographicPeople&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BeinNationalGeographicPeople&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein.png",BEIN OUTDOOR
-http://flussonic.finetv.xyz/auth?channel=BeinOutdoor&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BeinOutdoor&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein.png",BEIN SERIES 1
-http://flussonic.finetv.xyz/auth?channel=BeinSeries1&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BeinSeries1&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein.png",BEIN SERIES 2
-http://flussonic.finetv.xyz/auth?channel=BeinSeries2&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BeinSeries2&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein.png",BEIN TRAVEL
-http://flussonic.finetv.xyz/auth?channel=BeinTravel&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BeinTravel&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/OSN.png",OSN ANIMAL PLANET
-http://flussonic.finetv.xyz/auth?channel=OsnAnimalPlanet&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=OsnAnimalPlanet&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/OSN.png",OSN BBC EARTH
-http://flussonic.finetv.xyz/auth?channel=OsnBbcEarth&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=OsnBbcEarth&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/OSN.png",OSN CINEMA 1
-http://flussonic.finetv.xyz/auth?channel=OsnCinema1&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=OsnCinema1&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/OSN.png",OSN CINEMA 2
-http://flussonic.finetv.xyz/auth?channel=OsnCinema2&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=OsnCinema2&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/OSN.png",OSN DISCOVERY
-http://flussonic.finetv.xyz/auth?channel=OsnDiscovery&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=OsnDiscovery&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/OSN.png",OSN DISCOVERY SCIENCE
-http://flussonic.finetv.xyz/auth?channel=OsnDiscoveryScience&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=OsnDiscoveryScience&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/OSN.png",OSN HISTORY
-http://flussonic.finetv.xyz/auth?channel=OsnHistory&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=OsnHistory&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/OSN.png",OSN LIVING
-http://flussonic.finetv.xyz/auth?channel=OsnLiving&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=OsnLiving&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/OSN.png",OSN MOVIES
-http://flussonic.finetv.xyz/auth?channel=OsnMovies&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=OsnMovies&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/OSN.png",OSN MOVIES ACTION
-http://flussonic.finetv.xyz/auth?channel=OsnMoviesAction&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=OsnMoviesAction&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/OSN.png",OSN NATIONAL GEOGRAPHIC
-http://flussonic.finetv.xyz/auth?channel=OsnNationalGeographic&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=OsnNationalGeographic&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/OSN.png",OSN OSN NATIONAL GEOGRAPHIC PEOPLE
-http://flussonic.finetv.xyz/auth?channel=OsnOsnNationalGeographicPeople&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=OsnOsnNationalGeographicPeople&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/OSN.png",OSN OSN NATIONAL GEOGRAPHIC WILD
-http://flussonic.finetv.xyz/auth?channel=OsnOsnNationalGeographicWild&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=OsnOsnNationalGeographicWild&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/OSN.png",OSN SERIES COMEDY
-http://flussonic.finetv.xyz/auth?channel=OsnSeriesComedy&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=OsnSeriesComedy&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/OSN.png",OSN STAR MOVIES
-http://flussonic.finetv.xyz/auth?channel=OsnStarMovies&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=OsnStarMovies&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/OSN.png",OSN STAR WORLD
-http://flussonic.finetv.xyz/auth?channel=OsnStarWorld&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=OsnStarWorld&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/OSN.png",OSN YAHALA
-http://flussonic.finetv.xyz/auth?channel=OsnYahala&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=OsnYahala&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/OSN.png",OSN YAHALA 1
-http://flussonic.finetv.xyz/auth?channel=OsnYahala1&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=OsnYahala1&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/OSN.png",OSN YAHALA CINEMA
-http://flussonic.finetv.xyz/auth?channel=OsnYahalaCinema&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=OsnYahalaCinema&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Arena_Sports.png",ARENA SPORT 1
-http://flussonic.finetv.xyz/auth?channel=ArenaSport1&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ArenaSport1&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Arena_Sports.png",ARENA SPORT 2
-http://flussonic.finetv.xyz/auth?channel=ArenaSport2&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ArenaSport2&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Arena_Sports.png",ARENA SPORT 3
-http://flussonic.finetv.xyz/auth?channel=ArenaSport3&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ArenaSport3&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Arena_Sports.png",ARENA SPORT 4
-http://flussonic.finetv.xyz/auth?channel=ArenaSport4&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ArenaSport4&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Arena_Sports.png",ARENA SPORT 5
-http://flussonic.finetv.xyz/auth?channel=ArenaSport5&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ArenaSport5&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Arena_Sports.png",ARENA SPORT 6
-http://flussonic.finetv.xyz/auth?channel=ArenaSport6&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ArenaSport6&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein_Sports.png",BEIN USA
-http://flussonic.finetv.xyz/auth?channel=BeinUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BeinUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein_Sports.png",BEIN 1
-http://flussonic.finetv.xyz/auth?channel=Bein1&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Bein1&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein_Sports.png",BEIN 2
-http://flussonic.finetv.xyz/auth?channel=Bein2&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Bein2&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein_Sports.png",BEIN 3
-http://flussonic.finetv.xyz/auth?channel=Bein3&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Bein3&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein_Sports.png",BEIN 4
-http://flussonic.finetv.xyz/auth?channel=Bein4&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Bein4&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein_Sports.png",BEIN 5
-http://flussonic.finetv.xyz/auth?channel=Bein5&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Bein5&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein_Sports.png",BEIN 6
-http://flussonic.finetv.xyz/auth?channel=Bein6&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Bein6&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein_Sports.png",BEIN 7
-http://flussonic.finetv.xyz/auth?channel=Bein7&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Bein7&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein_Sports.png",BEIN 8
-http://flussonic.finetv.xyz/auth?channel=Bein8&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Bein8&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein_Sports.png",BEIN 9
-http://flussonic.finetv.xyz/auth?channel=Bein9&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Bein9&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein_Sports.png",BEIN 10
-http://flussonic.finetv.xyz/auth?channel=Bein10&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Bein10&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein_Sports.png",BEIN 11
-http://flussonic.finetv.xyz/auth?channel=Bein11&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Bein11&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein_Sports.png",BEIN 12
-http://flussonic.finetv.xyz/auth?channel=Bein12&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Bein12&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein_Sports.png",BEIN 13
-http://flussonic.finetv.xyz/auth?channel=Bein13&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Bein13&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein_Sports.png",BEIN 14
-http://flussonic.finetv.xyz/auth?channel=Bein14&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Bein14&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein_Sports.png",BEIN 15
-http://flussonic.finetv.xyz/auth?channel=Bein15&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Bein15&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein_Sports.png",BEIN 16
-http://flussonic.finetv.xyz/auth?channel=Bein16&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Bein16&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein_Sports.png",BEIN NBA
-http://flussonic.finetv.xyz/auth?channel=BeinNba&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BeinNba&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/BT_Sports.png",BT SPORTS 1
-http://flussonic.finetv.xyz/auth?channel=BtSports1&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BtSports1&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/BT_Sports.png",BT SPORTS 2
-http://flussonic.finetv.xyz/auth?channel=BtSports2&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BtSports2&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/BT_Sports.png",BT SPORTS 3
-http://flussonic.finetv.xyz/auth?channel=BtSports3&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BtSports3&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/BT_Sports_ESPN.png",BT SPORTS ESPN
-http://flussonic.finetv.xyz/auth?channel=BtSportsEspn&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BtSportsEspn&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/CBS_Sports.png",CBS SPORTS NETWORK
-http://flussonic.finetv.xyz/auth?channel=CbsSportsNetwork&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CbsSportsNetwork&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/ESPN.png",ESPN
-http://flussonic.finetv.xyz/auth?channel=Espn&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Espn&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/ESPN.png",ESPN 2
-http://flussonic.finetv.xyz/auth?channel=Espn2&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Espn2&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/ESPN.png",ESPN NEWS
-http://flussonic.finetv.xyz/auth?channel=EspnNews&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=EspnNews&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/ESPN.png",ESPN U
-http://flussonic.finetv.xyz/auth?channel=EspnU&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=EspnU&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Fox_Sports.png",FOX SPORTS 1
-http://flussonic.finetv.xyz/auth?channel=FoxSports1&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=FoxSports1&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Fox_Sports.png",FOX SPORTS 2
-http://flussonic.finetv.xyz/auth?channel=FoxSports2&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=FoxSports2&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Fox_Sports.png",FOX SPORTS RACING
-http://flussonic.finetv.xyz/auth?channel=FoxSportsRacing&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=FoxSportsRacing&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Fubo_Sports.png",FUBO SPORTS
-http://flussonic.finetv.xyz/auth?channel=FuboSports&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=FuboSports&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Geo_Sports.png",GEO SUPER
-http://flussonic.finetv.xyz/auth?channel=GeoSuper&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=GeoSuper&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Golf_Channel.png",GOLF CHANNEL
-http://flussonic.finetv.xyz/auth?channel=GolfChannel&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=GolfChannel&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/MLB.png",MLB
-http://flussonic.finetv.xyz/auth?channel=Mlb&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Mlb&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/NBA.png",NBA
-http://flussonic.finetv.xyz/auth?channel=Nba&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Nba&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/NBC.png",NBC GOLF
-http://flussonic.finetv.xyz/auth?channel=NbcGolf&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=NbcGolf&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/NBC.png",NBC SPORTS
-http://flussonic.finetv.xyz/auth?channel=NbcSports&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=NbcSports&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/NFL.png",NFL
-http://flussonic.finetv.xyz/auth?channel=Nfl&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Nfl&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/NHL.png",NHL
-http://flussonic.finetv.xyz/auth?channel=Nhl&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Nhl&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Redbull_TV.png",REDBULL TV
-http://flussonic.finetv.xyz/auth?channel=RedbullTv&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=RedbullTv&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sky_Sports.png",SKY SPORTS ARENA
-http://flussonic.finetv.xyz/auth?channel=SkySportsArena&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SkySportsArena&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sky_Sports.png",SKY SPORTS CRICKET
-http://flussonic.finetv.xyz/auth?channel=SkySportsCricket&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SkySportsCricket&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sky_Sports.png",SKY SPORTS F 1
-http://flussonic.finetv.xyz/auth?channel=SkySportsF1&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SkySportsF1&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sky_Sports.png",SKY SPORTS FOOTBALL
-http://flussonic.finetv.xyz/auth?channel=SkySportsFootball&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SkySportsFootball&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sky_Sports.png",SKY SPORTS GOLF
-http://flussonic.finetv.xyz/auth?channel=SkySportsGolf&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SkySportsGolf&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sky_Sports.png",SKY SPORTS MAIN EVENT
-http://flussonic.finetv.xyz/auth?channel=SkySportsMainEvent&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SkySportsMainEvent&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sky_Sports.png",SKY SPORTS MIX
-http://flussonic.finetv.xyz/auth?channel=SkySportsMix&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SkySportsMix&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sky_Sports.png",SKY SPORTS NEWS
-http://flussonic.finetv.xyz/auth?channel=SkySportsNews&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SkySportsNews&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sony_Six.png",SONY SIX
-http://flussonic.finetv.xyz/auth?channel=SonySix&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SonySix&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Ten_1.png",SONY TEN 1
-http://flussonic.finetv.xyz/auth?channel=SonyTen1&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SonyTen1&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Ten_2.png",SONY TEN 2
-http://flussonic.finetv.xyz/auth?channel=SonyTen2&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SonyTen2&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Ten_2.png",SONY TEN 3
-http://flussonic.finetv.xyz/auth?channel=SonyTen3&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SonyTen3&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sportsnet.png",SPORTSNET 1
-http://flussonic.finetv.xyz/auth?channel=Sportsnet1&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Sportsnet1&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sportsnet.png",SPORTSNET 360
-http://flussonic.finetv.xyz/auth?channel=Sportsnet360&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Sportsnet360&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sportsnet.png",SPORTSNET EAST
-http://flussonic.finetv.xyz/auth?channel=SportsnetEast&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SportsnetEast&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sportsnet.png",SPORTSNET ONTARIO
-http://flussonic.finetv.xyz/auth?channel=SportsnetOntario&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SportsnetOntario&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sportsnet.png",SPORTSNET PACIFIC
-http://flussonic.finetv.xyz/auth?channel=SportsnetPacific&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SportsnetPacific&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sportsnet.png",SPORTSNET WEST
-http://flussonic.finetv.xyz/auth?channel=SportsnetWest&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SportsnetWest&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sportsnet.png",SPORTSNET WORLD
-http://flussonic.finetv.xyz/auth?channel=SportsnetWorld&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SportsnetWorld&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Star_Sports.png",STAR SPORTS 1 ENGLISH
-http://flussonic.finetv.xyz/auth?channel=StarSports1English&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=StarSports1English&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Star_Sports.png",STAR SPORTS 1 HINDI
-http://flussonic.finetv.xyz/auth?channel=StarSports1Hindi&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=StarSports1Hindi&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Star_Sports.png",STAR SPORTS 2
-http://flussonic.finetv.xyz/auth?channel=StarSports2&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=StarSports2&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Star_Sports.png",STAR SPORTS SELECT 1
-http://flussonic.finetv.xyz/auth?channel=StarSportsSelect1&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=StarSportsSelect1&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Star_Sports.png",STAR SPORTS SELECT 2
-http://flussonic.finetv.xyz/auth?channel=StarSportsSelect2&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=StarSportsSelect2&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Tsn.png",TSN 1
-http://flussonic.finetv.xyz/auth?channel=Tsn1&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Tsn1&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Tsn.png",TSN 2
-http://flussonic.finetv.xyz/auth?channel=Tsn2&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Tsn2&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Tsn.png",TSN 3
-http://flussonic.finetv.xyz/auth?channel=Tsn3&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Tsn3&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Tsn.png",TSN 4
-http://flussonic.finetv.xyz/auth?channel=Tsn4&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Tsn4&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Tsn.png",TSN 5
-http://flussonic.finetv.xyz/auth?channel=Tsn5&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Tsn5&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Willow.png",WILLOW TV
-http://flussonic.finetv.xyz/auth?channel=WillowTv&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=WillowTv&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Willow.png",WILLOW TV 2
-http://flussonic.finetv.xyz/auth?channel=WillowTv2&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=WillowTv2&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Willow.png",WILLOW XTRA
-http://flussonic.finetv.xyz/auth?channel=WillowXtra&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=WillowXtra&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Wwe.png",WWE
-http://flussonic.finetv.xyz/auth?channel=Wwe&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Wwe&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Yes_Network.png",YES NETWORK
-http://flussonic.finetv.xyz/auth?channel=YesNetwork&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=YesNetwork&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Bein_Cartoon_Network.png",BEIN CARTOON NETWORK
-http://flussonic.finetv.xyz/auth?channel=BeinCartoonNetwork&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BeinCartoonNetwork&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Discovery_Kids.png",BEIN DISCOVERY KIDS
-http://flussonic.finetv.xyz/auth?channel=BeinDiscoveryKids&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BeinDiscoveryKids&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Boomerang.png",BOOMERANG UK
-http://flussonic.finetv.xyz/auth?channel=BoomerangUk&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BoomerangUk&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Boomerang.png",BOOMERANG USA
-http://flussonic.finetv.xyz/auth?channel=BoomerangUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BoomerangUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Cartoon_Network.png",CARTOON NETWORK CANADA
-http://flussonic.finetv.xyz/auth?channel=CartoonNetworkCanada&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CartoonNetworkCanada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Cartoon_Network.png",CARTOON NETWORK ENGLISH INDIA
-http://flussonic.finetv.xyz/auth?channel=CartoonNetworkEnglishIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CartoonNetworkEnglishIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Cartoon_Network.png",CARTOON NETWORK HINDI INDIA
-http://flussonic.finetv.xyz/auth?channel=CartoonNetworkHindiIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CartoonNetworkHindiIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Cartoon_Network.png",CARTOON NETWORK UK
-http://flussonic.finetv.xyz/auth?channel=CartoonNetworkUk&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CartoonNetworkUk&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Cartoon_Network.png",CARTOON NETWORK USA
-http://flussonic.finetv.xyz/auth?channel=CartoonNetworkUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=CartoonNetworkUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Discovery_Kids.png",DISCOVERY KIDS
-http://flussonic.finetv.xyz/auth?channel=DiscoveryKids&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=DiscoveryKids&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Disney_Channel.png",DISNEY CHANNEL CANADA
-http://flussonic.finetv.xyz/auth?channel=DisneyChannelCanada&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=DisneyChannelCanada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Disney_Channel.png",DISNEY CHANNEL UK
-http://flussonic.finetv.xyz/auth?channel=DisneyChannelUk&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=DisneyChannelUk&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Disney_Channel.png",DISNEY CHANNEL USA
-http://flussonic.finetv.xyz/auth?channel=DisneyChannelUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=DisneyChannelUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Disney_International.png",DISNEY INTERNATIONAL
-http://flussonic.finetv.xyz/auth?channel=DisneyInternational&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=DisneyInternational&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Disney_Junior.png",DISNEY JUNIOR CANADA
-http://flussonic.finetv.xyz/auth?channel=DisneyJuniorCanada&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=DisneyJuniorCanada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Disney_Junior.png",DISNEY JUNIOR UK
-http://flussonic.finetv.xyz/auth?channel=DisneyJuniorUk&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=DisneyJuniorUk&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Disney_Junior.png",DISNEY JUNIOR USA
-http://flussonic.finetv.xyz/auth?channel=DisneyJuniorUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=DisneyJuniorUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Disney_XD.png",DISNEY XD CANADA
-http://flussonic.finetv.xyz/auth?channel=DisneyXdCanada&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=DisneyXdCanada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Disney_XD.png",DISNEY XD UK
-http://flussonic.finetv.xyz/auth?channel=DisneyXdUk&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=DisneyXdUk&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Disney_XD.png",DISNEY XD USA
-http://flussonic.finetv.xyz/auth?channel=DisneyXdUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=DisneyXdUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Family_Channel.png",FAMILY CHANNEL
-http://flussonic.finetv.xyz/auth?channel=FamilyChannel&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=FamilyChannel&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Family_Charged.png",FAMILY CHARGED
-http://flussonic.finetv.xyz/auth?channel=FamilyCharged&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=FamilyCharged&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Family_Junior.png",FAMILY JUNIOR
-http://flussonic.finetv.xyz/auth?channel=FamilyJunior&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=FamilyJunior&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Kids.png",KIDS PPV
-http://flussonic.finetv.xyz/auth?channel=KidsPpv&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=KidsPpv&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Nick_Plus.png",NICK PLUS ENGLISH INDIA
-http://flussonic.finetv.xyz/auth?channel=NickPlusEnglishIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=NickPlusEnglishIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Nick_Plus.png",NICK PLUS HINDI INDIA
-http://flussonic.finetv.xyz/auth?channel=NickPlusHindiIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=NickPlusHindiIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Nick_Teens.png",NICK TEENS
-http://flussonic.finetv.xyz/auth?channel=NickTeens&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=NickTeens&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Nickelodeon.png",NICKELODEON CANADA
-http://flussonic.finetv.xyz/auth?channel=NickelodeonCanada&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=NickelodeonCanada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Nickelodeon_Junior.png",NICKELODEON JUNIOR
-http://flussonic.finetv.xyz/auth?channel=NickelodeonJunior&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=NickelodeonJunior&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Nickelodeon_Junior.png",NICKELODEON JUNIOR HINDI INDIA
-http://flussonic.finetv.xyz/auth?channel=NickelodeonJuniorHindiIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=NickelodeonJuniorHindiIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Nickelodeon_Junior.png",NICKELODEON JUNIOR TOO UK
-http://flussonic.finetv.xyz/auth?channel=NickelodeonJuniorTooUk&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=NickelodeonJuniorTooUk&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Nickelodeon_Junior.png",NICKELODEON JUNIOR UK
-http://flussonic.finetv.xyz/auth?channel=NickelodeonJuniorUk&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=NickelodeonJuniorUk&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Nickelodeon.png",NICKELODEON UK
-http://flussonic.finetv.xyz/auth?channel=NickelodeonUk&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=NickelodeonUk&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Nickelodeon.png",NICKELODEON USA
-http://flussonic.finetv.xyz/auth?channel=NickelodeonUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=NickelodeonUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Nicktoons.png",NICKTOONS CANADA
-http://flussonic.finetv.xyz/auth?channel=NicktoonsCanada&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=NicktoonsCanada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Nicktoons.png",NICKTOONS USA
-http://flussonic.finetv.xyz/auth?channel=NicktoonsUsa&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=NicktoonsUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/OSN.png",OSN BABY
-http://flussonic.finetv.xyz/auth?channel=OsnBaby&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=OsnBaby&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/OSN.png",OSN DISNEY
-http://flussonic.finetv.xyz/auth?channel=OsnDisney&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=OsnDisney&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/OSN.png",OSN DISNEY JUNIOR
-http://flussonic.finetv.xyz/auth?channel=OsnDisneyJunior&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=OsnDisneyJunior&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/OSN.png",OSN KIDS
-http://flussonic.finetv.xyz/auth?channel=OsnKids&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=OsnKids&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Pbs_Kids.png",PBS KIDS
-http://flussonic.finetv.xyz/auth?channel=PbsKids&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=PbsKids&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Pbs_Kids.png",PBS KIDS EAST
-http://flussonic.finetv.xyz/auth?channel=PbsKidsEast&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=PbsKidsEast&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Pbs_Kids.png",PBS KIDS WEST
-http://flussonic.finetv.xyz/auth?channel=PbsKidsWest&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=PbsKidsWest&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Pogo.png",POGO
-http://flussonic.finetv.xyz/auth?channel=Pogo&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Pogo&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Sony_Yay.png",SONY YAY INDIA
-http://flussonic.finetv.xyz/auth?channel=SonyYayIndia&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SonyYayIndia&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Teletoon.png",TELETOON
-http://flussonic.finetv.xyz/auth?channel=Teletoon&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Teletoon&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Treehouse.png",TREEHOUSE
-http://flussonic.finetv.xyz/auth?channel=Treehouse&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Treehouse&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Ytv.png",YTV
-http://flussonic.finetv.xyz/auth?channel=Ytv&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Ytv&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/247_Live.png",AVATAR 24X7
-http://flussonic.finetv.xyz/auth?channel=Avatar24x7&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Avatar24x7&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/247_Live.png",BATMAN 1966 24X7
-http://flussonic.finetv.xyz/auth?channel=Batman196624x7&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Batman196624x7&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/247_Live.png",BATMAN THE ANIMATED SERIES 24X7
-http://flussonic.finetv.xyz/auth?channel=BatmanTheAnimatedSeries24x7&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BatmanTheAnimatedSeries24x7&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/247_Live.png",BREAKING BAD 24X7
-http://flussonic.finetv.xyz/auth?channel=BreakingBad24x7&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=BreakingBad24x7&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/247_Live.png",DISNEY 24X7
-http://flussonic.finetv.xyz/auth?channel=Disney24x7&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Disney24x7&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/247_Live.png",DISNEY MOVIES 24X7
-http://flussonic.finetv.xyz/auth?channel=DisneyMovies24x7&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=DisneyMovies24x7&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/247_Live.png",DORA THE EXPLORER 24X7
-http://flussonic.finetv.xyz/auth?channel=DoraTheExplorer24x7&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=DoraTheExplorer24x7&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/247_Live.png",FUTURAMA 24X7
-http://flussonic.finetv.xyz/auth?channel=Futurama24x7&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Futurama24x7&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/247_Live.png",HARRY POTTER 24X7
-http://flussonic.finetv.xyz/auth?channel=HarryPotter24x7&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=HarryPotter24x7&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/247_Live.png",JOHNY TEST 24X7
-http://flussonic.finetv.xyz/auth?channel=JohnyTest24x7&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=JohnyTest24x7&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/247_Live.png",LOONEY TUNES 24X7
-http://flussonic.finetv.xyz/auth?channel=LooneyTunes24x7&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=LooneyTunes24x7&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/247_Live.png",MICKEY MOUSE CLUBHOUSE 24X7
-http://flussonic.finetv.xyz/auth?channel=MickeyMouseClubhouse24x7&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=MickeyMouseClubhouse24x7&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/247_Live.png",MR BEAN 24X7
-http://flussonic.finetv.xyz/auth?channel=MrBean24x7&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=MrBean24x7&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/247_Live.png",PAW PATROL 24X7
-http://flussonic.finetv.xyz/auth?channel=PawPatrol24x7&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=PawPatrol24x7&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/247_Live.png",PEPPA PIG 24X7
-http://flussonic.finetv.xyz/auth?channel=PeppaPig24x7&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=PeppaPig24x7&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/247_Live.png",RICK AND MORTY 24X7
-http://flussonic.finetv.xyz/auth?channel=RickAndMorty24x7&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=RickAndMorty24x7&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/247_Live.png",RUGRATS 24X7
-http://flussonic.finetv.xyz/auth?channel=Rugrats24x7&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=Rugrats24x7&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/247_Live.png",SCOOBY DOO 24X7
-http://flussonic.finetv.xyz/auth?channel=ScoobyDoo24x7&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=ScoobyDoo24x7&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/247_Live.png",SOUTH PARK 24X7
-http://flussonic.finetv.xyz/auth?channel=SouthPark24x7&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SouthPark24x7&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/247_Live.png",SPIDER MAN 24X7
-http://flussonic.finetv.xyz/auth?channel=SpiderMan24x7&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SpiderMan24x7&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/247_Live.png",SPONGEBOB SQUAREPANTS 24X7
-http://flussonic.finetv.xyz/auth?channel=SpongebobSquarepants24x7&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SpongebobSquarepants24x7&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/247_Live.png",SPONGEBOB SQUAREPANTS SEASON 1- 24X7
-http://flussonic.finetv.xyz/auth?channel=SpongebobSquarepantsSeason1-24x7&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SpongebobSquarepantsSeason1-24x7&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/247_Live.png",SPONGEBOB SQUAREPANTS SEASON 2- 24X7
-http://flussonic.finetv.xyz/auth?channel=SpongebobSquarepantsSeason2-24x7&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=SpongebobSquarepantsSeason2-24x7&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/247_Live.png",THE FLINTSTONES 24X7
-http://flussonic.finetv.xyz/auth?channel=TheFlintstones24x7&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=TheFlintstones24x7&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/247_Live.png",TOM AND JERRY 24X7
-http://flussonic.finetv.xyz/auth?channel=TomAndJerry24x7&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=TomAndJerry24x7&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/247_Live.png",UFC KNOCKOUT PPV
-http://flussonic.finetv.xyz/auth?channel=UfcKnockoutPpv&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=UfcKnockoutPpv&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/247_Live.png",UFC PPV
-http://flussonic.finetv.xyz/auth?channel=UfcPpv&authorization=ZnJlZWFjY2VzcyEwOTIwMjAtMTAyMDIw&server=1
+http://flussonic.finetv.xyz/auth?channel=UfcPpv&authorization=b12eb0ec0130e987278877128ea42934&server=1
