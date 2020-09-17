@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/AE.png",A&E CANADA
-http://flussonic.finetv.xyz/auth?channel=A&ECanada&authorization=b12eb0ec0130e987278877128ea42934&server=1
+http://flussonic.finetv.xyz/auth?channel=A%26ECanada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/ABC.png",ABC CANADA
 http://flussonic.finetv.xyz/auth?channel=AbcCanada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Adult_Swim.png",ADULT SWIM CANADA
@@ -90,7 +90,7 @@ http://flussonic.finetv.xyz/auth?channel=DiscoveryChannelCanada&authorization=b1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Discovery.png",DISCOVERY SCIENCE CANADA
 http://flussonic.finetv.xyz/auth?channel=DiscoveryScienceCanada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/E.png",E! CANADA
-http://flussonic.finetv.xyz/auth?channel=E!Canada&authorization=b12eb0ec0130e987278877128ea42934&server=1
+http://flussonic.finetv.xyz/auth?channel=E%21Canada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Food_Network.png",FOOD NETWORK CANADA
 http://flussonic.finetv.xyz/auth?channel=FoodNetworkCanada&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/FX.png",FX CANADA
@@ -150,7 +150,7 @@ http://flussonic.finetv.xyz/auth?channel=WNetworkCanada&authorization=b12eb0ec01
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Yes_TV.png",YES TV
 http://flussonic.finetv.xyz/auth?channel=YesTv&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/AE.png",A&E USA
-http://flussonic.finetv.xyz/auth?channel=A&EUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
+http://flussonic.finetv.xyz/auth?channel=A%26EUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/ABC.png",ABC BUFFALO
 http://flussonic.finetv.xyz/auth?channel=AbcBuffalo&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/ABC.png",ABC FAMILY
@@ -206,7 +206,7 @@ http://flussonic.finetv.xyz/auth?channel=DiscoveryScienceUsa&authorization=b12eb
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Discovery.png",DISCOVERY VELOCITY USA
 http://flussonic.finetv.xyz/auth?channel=DiscoveryVelocityUsa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/E.png",E! USA
-http://flussonic.finetv.xyz/auth?channel=E!Usa&authorization=b12eb0ec0130e987278877128ea42934&server=1
+http://flussonic.finetv.xyz/auth?channel=E%21Usa&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Fail_Army.png",FAIL ARMY
 http://flussonic.finetv.xyz/auth?channel=FailArmy&authorization=b12eb0ec0130e987278877128ea42934&server=1
 #EXTINF:-1 tvg-logo="http://files.cdn4k.xyz/images/Food_Network.png",FOOD NETWORK USA
